@@ -1,7 +1,0 @@
-[mysqld]
-replicate-wild-ignore-table = mysql.%
-replicate-wild-ignore-table = test.%
-replicate-wild-ignore-table = information_schema.%
-replicate-wild-ignore-table = performance_schema.%
-replicate-wild-ignore-table = sq_order_global.%
-replicate-wild-ignore-table = %.driver_order
